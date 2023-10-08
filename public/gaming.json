@@ -1,0 +1,72 @@
+
+  [
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/Wk1m3sF/epiqGame.jpg",
+      "title": "Epic Game Fest",
+      "details": "Join us for the biggest gaming festival of the year! Explore new game releases, participate in tournaments, and meet your favorite game developers.",
+      "rating": 4.7,
+      "release_date": "2023-11-15",
+      "price": 49.99,
+      "data_aos": "fade-up-right",
+      "bg_color": "#D9E5FF"
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/Wc8VHps/racing-event.jpg",
+      "title": "Racing Game Championship",
+      "details": "Get ready for high-speed action! Compete in intense racing game tournaments and win amazing prizes.",
+      "rating": 4.4,
+      "release_date": "2023-07-25",
+      "price": 44.99,
+      "data_aos": "fade-up-left",
+      "bg_color": "#ebf5e2"
+      
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/8Y12CcC/event-RPG.jpg",
+      "title": "Fantasy RPG Convention",
+      "details": "Calling all fantasy RPG enthusiasts! Dive into a world of magic and adventure at our convention. Play tabletop games and attend panel discussions.",
+      "rating": 4.8,
+      "release_date": "2023-10-05",
+      "price": 29.99,
+      "data_aos": "fade-up-right",
+      "bg_color": "#D9E5FF"
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/bLGPzWc/esport-event.png",
+      "title": "Esports Championship Series",
+      "details": "Witness the best esports teams from around the world compete in thrilling tournaments. Who will emerge as the champions?",
+      "rating": 4.9,
+      "release_date": "2023-12-03",
+      "price": 54.99,
+      "data_aos": "fade-up-left",
+      "bg_color": "#ebf5e2"
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/W6RCvk6/indea-event.jpg",
+      "title": "Indie Game Showcase",
+      "details": "Discover innovative indie games and meet the talented developers behind them. Support the indie gaming community!",
+      "rating": 4.6,
+      "release_date": "2023-08-10",
+      "price": 19.99,
+      "data_aos": "fade-up-right",
+      "bg_color": "#D9E5FF"
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co/g3mtQ0L/event-var.webp",
+      "title": "VR Gaming Expo",
+      "details": "Experience the future of gaming with virtual reality at the VR Gaming Expo. Try out the latest VR games and technology.",
+      "rating": 4.5,
+      "release_date": "2023-09-20",
+      "price": 39.99,
+      "data_aos": "fade-up-left",
+      "bg_color": "#ebf5e2"
+      
+    }
+  ]
+
